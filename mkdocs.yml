@@ -1,0 +1,30 @@
+site_name: SmallStepsDaily
+site_url: https://mydomain.org/SmallStepsDaily
+theme:
+  name: material
+  language: 'zh'
+  logo: images/logo.jpg
+  favicon: images/logo.jpg
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+nav:
+  - 个人及项目介绍: index.md
+  - 图像管理系统:
+    - 命名规范: 图像管理系统\命名规范介绍.md
+  - FRET亚细胞器分析系统:
+    - 系统介绍: FRET亚细胞器分析系统\系统介绍.md
+  - FRET明场分析系统 Two:
+    - 系统介绍: FRET明场分析系统\系统介绍.md
+
+extra_css:
+  - css/extra.css
