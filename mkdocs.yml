@@ -1,5 +1,5 @@
 site_name: SmallStepsDaily
-site_url: https://mydomain.org/SmallStepsDaily
+site_url: https://SmallStepsDaily.github.io
 theme:
   name: material
   language: 'zh'
