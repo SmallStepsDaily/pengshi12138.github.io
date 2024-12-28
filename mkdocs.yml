@@ -20,11 +20,11 @@ theme:
 nav:
   - 个人及项目介绍: index.md
   - 图像管理系统:
-    - 命名规范: 图像管理系统\命名规范介绍.md
+    - 图像管理系统/命名规范介绍.md
   - FRET亚细胞器分析系统:
-    - 系统介绍: FRET亚细胞器分析系统\系统介绍.md
-  - FRET明场分析系统 Two:
-    - 系统介绍: FRET明场分析系统\系统介绍.md
+    - FRET亚细胞器分析系统/系统介绍.md
+  - FRET明场分析系统:
+    - FRET明场分析系统/系统介绍.md
 
 extra_css:
   - css/extra.css
